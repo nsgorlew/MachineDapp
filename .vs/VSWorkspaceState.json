@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\vending-machine-dapp",
+    "\\vending-machine-dapp\\vending-machine",
+    "\\vending-machine-dapp\\vending-machine-app",
+    "\\vending-machine-dapp\\vending-machine-app\\blockchain",
+    "\\vending-machine-dapp\\vending-machine-app\\pages",
+    "\\vending-machine-dapp\\vending-machine\\build\\contracts"
+  ],
+  "SelectedNode": "\\vending-machine-dapp\\vending-machine-app\\pages\\vending-machine.js",
+  "PreviewInSolutionExplorer": false
+}
